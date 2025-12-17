@@ -4,11 +4,9 @@
   <artifactId>progettoJava2025</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <proprietis>
-	  
+  <propertis>
 	  <maven.compiler.source>1.7</maven.compiler.source>
 	  <maven.compiler.target>1.7</maven.compiler.target>
-
-  </proprietis>
+  </propertis>
   
 </project>
